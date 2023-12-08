@@ -8,4 +8,3 @@ It uses PHPOffice
 - Send email notifications. Most like it will use sendmail
 - Refactor some of the form code
 
-# php-excel-work-order
